@@ -1,0 +1,7 @@
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/B103823/model/CF /corral-repl/utexas/ldrc/TWINS/B103823/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/B104122/model/CF /corral-repl/utexas/ldrc/TWINS/B104122/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/B105621/model/CF /corral-repl/utexas/ldrc/TWINS/B105621/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/B111921/model/CF /corral-repl/utexas/ldrc/TWINS/B111921/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/270321/model/CF /corral-repl/utexas/ldrc/TWINS/270321/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/279731/model/CF /corral-repl/utexas/ldrc/TWINS/279731/model/CF
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_lev2fsf.py /corral-repl/utexas/ldrc/TWINS/B111921/model/CF /corral-repl/utexas/ldrc/TWINS/B112721/model/CF

@@ -2,7 +2,7 @@
 
 #Before running this script, you must download the scanner images from Osirix and upload the zip file to TACC/STUDYNAME.
 
-PARTICID='B111921'
+PARTICID='279731'
 STUDYNAME='ldrc/TWINS'
 
 # Set up folders.
@@ -34,7 +34,7 @@ mv $PARTICID* ..
 # Move raw dicoms to Converted folder, then rename them as XNAT used to.
 mv 2* ../Converted
 cd ../Converted
-matlab -nodisplay -nosplash -r "nameLikeXnat('/corral-repl/utexas/${STUDYNAME}/${PARTICID}/raw/Converted');exit"
+matlab -nodisplay -nosplash -r "nameLikeXnat2016('/corral-repl/utexas/${STUDYNAME}/${PARTICID}/raw/Converted');exit"
 
 # Move the renamed files to folder raw/particID, then split them by scan. These steps also rename "Converted" to "Converted_unnamed".
 mv $PARTICID* ../${PARTICID}

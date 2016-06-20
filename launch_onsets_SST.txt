@@ -1,0 +1,2 @@
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_onsets_SST.py /corral-repl/utexas/ldrc/TWINS/259721/behav/SST/Run1/259721_2015-07-30-11_33_22_subdata.pkl /corral-repl/utexas/ldrc/TWINS/259721/behav/SST/Run1
+python /corral-repl/utexas/ldrc/TWINS/SCRIPTS/mk_onsets_SST.py /corral-repl/utexas/ldrc/TWINS/259722/behav/SST/Run1/259722_2015-07-30-10_23_54_subdata.pkl /corral-repl/utexas/ldrc/TWINS/259722/behav/SST/Run1
